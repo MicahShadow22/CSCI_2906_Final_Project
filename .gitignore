@@ -1,0 +1,5 @@
+# Ignore macOS Finder files
+.DS_Store
+
+# Ignore Java class files
+*.class
